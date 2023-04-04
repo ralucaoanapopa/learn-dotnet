@@ -1,0 +1,12 @@
+D:\projects\alttester\ClassLibraryProjects\StringLibrary\bin\Release\net7.0\StringLibrary.deps.json
+D:\projects\alttester\ClassLibraryProjects\StringLibrary\bin\Release\net7.0\StringLibrary.dll
+D:\projects\alttester\ClassLibraryProjects\StringLibrary\bin\Release\net7.0\StringLibrary.pdb
+D:\projects\alttester\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\StringLibrary.csproj.AssemblyReference.cache
+D:\projects\alttester\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\alttester\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\StringLibrary.AssemblyInfoInputs.cache
+D:\projects\alttester\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\StringLibrary.AssemblyInfo.cs
+D:\projects\alttester\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\projects\alttester\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\StringLibrary.dll
+D:\projects\alttester\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\refint\StringLibrary.dll
+D:\projects\alttester\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\StringLibrary.pdb
+D:\projects\alttester\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\ref\StringLibrary.dll
